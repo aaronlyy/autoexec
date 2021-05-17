@@ -1,0 +1,2 @@
+# autoexec
+my csgo autoexec
